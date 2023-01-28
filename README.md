@@ -11,7 +11,9 @@ this guide show the step implement different exploitation
 (automatic) meaning by default the action is taken the first time the application opened ,
 so there is no need to performe the action manually
 duping:
+<br>
 1- open application
+</br>
 2- create vulnerable server
 3- create user id = 0  (automatic)
 4- login user id = 0  (automatic)
